@@ -1,5 +1,7 @@
 let age = 36;
 let nom = "oscar";
-let estConnecte= true;
+let estConnecte = true;
 let valeurNulle = null;
-let inconnue= "";
+let inconnue; // indéfinie
+
+module.exports = { age, nom, estConnecte, valeurNulle, inconnue };

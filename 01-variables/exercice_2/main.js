@@ -1,2 +1,3 @@
-let nom ="kadea";
+let nom 
+nom ="kadea";
 console.log(nom);
